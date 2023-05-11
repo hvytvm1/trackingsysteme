@@ -1,1 +1,35 @@
+{
+  "niveaux": [
+      {
+      "id": 1,
+      "type": "métallique",
+      "niveau_remplissage": 75,
+      "date":"12-05-2023"
+    },
+    {
+      "id": 2,
+      "type": "plastique",
+      "niveau_remplissage": 45,
+      "date":"13-05-2023"
+    },
+    {
+      "id": 3,
+      "type": "organique",
+      "niveau_remplissage": 90,
+      "date":"12-05-2023"
+    },
+    {
+      "id": 4,
+      "type": "métallique",
+      "niveau_remplissage": 30,
+      "date":"12-05-2023" 
+    },
+    {
+      "id": 5,
+      "type": "plastique",
+      "niveau_remplissage": 60,
+      "date":"12-05-2023"
+    }
 
+  ]
+}
