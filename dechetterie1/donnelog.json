@@ -1,28 +1,28 @@
 {
+  "positions": [
     
-      
-  
-  
-    {"id":1  ,
-     "latitude":33.3948123 ,
-     "longitude":-7.5451399
-    },
-    {"id":2  ,
-     "latitude": 33.3963916 ,
-     "longitude":-7.5397194
-    },
-    {"id":3  ,
-     "latitude":33.4040163 ,
-     "longitude":-7.5557123
-    },
-    {"id":4  ,
-     "latitude": 33.4070055 ,
-     "longitude":-7.5573784
-    },
-   {"id":5  ,
-     "latitude": 33.4076888 ,
-     "longitude":-7.557577
-    }
-  
-    
+
+
+  {"id":1  ,
+   "latitude":33.3948123 ,
+   "longitude":-7.5451399
+  },
+  {"id":2  ,
+   "latitude": 33.3963916 ,
+   "longitude":-7.5397194
+  },
+  {"id":3  ,
+   "latitude":33.4040163 ,
+   "longitude":-7.5557123
+  },
+  {"id":4  ,
+   "latitude": 33.4070055 ,
+   "longitude":-7.5573784
+  },
+ {"id":5  ,
+   "latitude": 33.4076888 ,
+   "longitude":-7.557577
   }
+
+  ]
+}
