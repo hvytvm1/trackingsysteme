@@ -29,6 +29,12 @@
       "type": "plastique",
       "niveau_remplissage": 60,
       "date":"12-05-2023"
+    },
+    {
+      "id": 7,
+      "type": "plastique",
+      "niveau_remplissage": 95,
+      "date":"13-05-2023"
     }
 
   ]
