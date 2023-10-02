@@ -1,448 +1,3161 @@
 {
   "niveaux": [
     {
-      "id": 1,
-      "type": "métallique",
-      "niveau_remplissage": 75,
-      "date": "12-05-2023"
+        "id": 1,
+        "niveau_remplissage": 17,
+        "date": "12-05-2023"
     },
     {
-      "id": 2,
-      "type": "plastique",
-      "niveau_remplissage": 45,
-      "date": "12-05-2023"
+        "id": 2,
+        "niveau_remplissage": 63,
+        "date": "12-05-2023"
     },
     {
-      "id": 3,
-      "type": "organique",
-      "niveau_remplissage": 90,
-      "date": "12-05-2023"
+        "id": 3,
+        "niveau_remplissage": 23,
+        "date": "12-05-2023"
     },
     {
-      "id": 4,
-      "type": "métallique",
-      "niveau_remplissage": 30,
-      "date": "12-05-2023"
+        "id": 4,
+        "niveau_remplissage": 19,
+        "date": "12-05-2023"
     },
     {
-      "id": 5,
-      "type": "plastique",
-      "niveau_remplissage": 60,
-      "date": "12-05-2023"
+        "id": 5,
+        "niveau_remplissage": 61,
+        "date": "12-05-2023"
     },
     {
-      "id": 6,
-      "type": "métallique",
-      "niveau_remplissage": 55,
-      "date": "12-05-2023"
+        "id": 6,
+        "niveau_remplissage": 41,
+        "date": "12-05-2023"
     },
     {
-      "id": 7,
-      "type": "plastique",
-      "niveau_remplissage": 95,
-      "date": "12-05-2023"
+        "id": 7,
+        "niveau_remplissage": 47,
+        "date": "12-05-2023"
     },
     {
-      "id": 8,
-      "type": "organique",
-      "niveau_remplissage": 25,
-      "date": "12-05-2023"
+        "id": 8,
+        "niveau_remplissage": 17,
+        "date": "12-05-2023"
     },
     {
-      "id": 9,
-      "type": "métallique",
-      "niveau_remplissage": 70,
-      "date": "12-05-2023"
+        "id": 9,
+        "niveau_remplissage": 44,
+        "date": "12-05-2023"
     },
     {
-      "id": 10,
-      "type": "plastique",
-      "niveau_remplissage": 40,
-      "date": "12-05-2023"
+        "id": 10,
+        "niveau_remplissage": 23,
+        "date": "12-05-2023"
     },
     {
-      "id": 11,
-      "type": "organique",
-      "niveau_remplissage": 85,
-      "date": "12-05-2023"
+        "id": 11,
+        "niveau_remplissage": 54,
+        "date": "12-05-2023"
     },
     {
-      "id": 12,
-      "type": "métallique",
-      "niveau_remplissage": 35,
-      "date": "12-05-2023"
+        "id": 12,
+        "niveau_remplissage": 16,
+        "date": "12-05-2023"
     },
     {
-      "id": 13,
-      "type": "plastique",
-      "niveau_remplissage": 70,
-      "date": "12-05-2023"
+        "id": 13,
+        "niveau_remplissage": 86,
+        "date": "12-05-2023"
     },
     {
-      "id": 14,
-      "type": "métallique",
-      "niveau_remplissage": 50,
-      "date": "12-05-2023"
+        "id": 14,
+        "niveau_remplissage": 35,
+        "date": "12-05-2023"
     },
     {
-      "id": 15,
-      "type": "plastique",
-      "niveau_remplissage": 80,
-      "date": "12-05-2023"
+        "id": 15,
+        "niveau_remplissage": 13,
+        "date": "12-05-2023"
     },
     {
-      "id": 16,
-      "type": "organique",
-      "niveau_remplissage": 55,
-      "date": "12-05-2023"
+        "id": 16,
+        "niveau_remplissage": 15,
+        "date": "12-05-2023"
     },
     {
-      "id": 17,
-      "type": "métallique",
-      "niveau_remplissage": 65,
-      "date": "12-05-2023"
+        "id": 17,
+        "niveau_remplissage": 78,
+        "date": "12-05-2023"
     },
     {
-      "id": 18,
-      "type": "plastique",
-      "niveau_remplissage": 90,
-      "date": "12-05-2023"
+        "id": 18,
+        "niveau_remplissage": 51,
+        "date": "12-05-2023"
     },
     {
-      "id": 19,
-      "type": "métallique",
-      "niveau_remplissage": 45,
-      "date": "12-05-2023"
+        "id": 19,
+        "niveau_remplissage": 91,
+        "date": "12-05-2023"
     },
     {
-      "id": 20,
-      "type": "plastique",
-      "niveau_remplissage": 75,
-      "date": "12-05-2023"
+        "id": 20,
+        "niveau_remplissage": 55,
+        "date": "12-05-2023"
     },
     {
-      "id": 21,
-      "type": "organique",
-      "niveau_remplissage": 40,
-      "date": "12-05-2023"
+        "id": 21,
+        "niveau_remplissage": 93,
+        "date": "12-05-2023"
     },
     {
-      "id": 22,
-      "type": "métallique",
-      "niveau_remplissage": 25,
-      "date": "12-05-2023"
+        "id": 22,
+        "niveau_remplissage": 69,
+        "date": "12-05-2023"
     },
     {
-      "id": 23,
-      "type": "plastique",
-      "niveau_remplissage": 55,
-      "date": "12-05-2023"
+        "id": 23,
+        "niveau_remplissage": 37,
+        "date": "12-05-2023"
     },
     {
-      "id": 24,
-      "type": "métallique",
-      "niveau_remplissage": 70,
-      "date": "12-05-2023"
+        "id": 24,
+        "niveau_remplissage": 64,
+        "date": "12-05-2023"
     },
     {
-      "id": 25,
-      "type": "plastique",
-      "niveau_remplissage": 45,
-      "date": "12-05-2023"
+        "id": 25,
+        "niveau_remplissage": 59,
+        "date": "12-05-2023"
     },
     {
-      "id": 26,
-      "type": "organique",
-      "niveau_remplissage": 80,
-      "date": "12-05-2023"
+        "id": 26,
+        "niveau_remplissage": 6,
+        "date": "12-05-2023"
     },
     {
-      "id": 27,
-      "type": "métallique",
-      "niveau_remplissage": 60,
-      "date": "12-05-2023"
+        "id": 27,
+        "niveau_remplissage": 65,
+        "date": "12-05-2023"
     },
     {
-      "id": 28,
-      "type": "plastique",
-      "niveau_remplissage": 95,
-      "date": "12-05-2023"
+        "id": 28,
+        "niveau_remplissage": 91,
+        "date": "12-05-2023"
     },
     {
-      "id": 29,
-      "type": "métallique",
-      "niveau_remplissage": 40,
-      "date": "12-05-2023"
+        "id": 29,
+        "niveau_remplissage": 91,
+        "date": "12-05-2023"
     },
     {
-      "id": 30,
-      "type": "plastique",
-      "niveau_remplissage": 70,
-      "date": "12-05-2023"
+        "id": 30,
+        "niveau_remplissage": 57,
+        "date": "12-05-2023"
     },
     {
-      "id": 31,
-      "type": "organique",
-      "niveau_remplissage": 65,
-      "date": "12-05-2023"
+        "id": 31,
+        "niveau_remplissage": 36,
+        "date": "12-05-2023"
     },
     {
-      "id": 32,
-      "type": "métallique",
-      "niveau_remplissage": 85,
-      "date": "12-05-2023"
+        "id": 32,
+        "niveau_remplissage": 86,
+        "date": "12-05-2023"
     },
     {
-      "id": 33,
-      "type": "plastique",
-      "niveau_remplissage": 50,
-      "date": "12-05-2023"
+        "id": 33,
+        "niveau_remplissage": 91,
+        "date": "12-05-2023"
     },
     {
-      "id": 34,
-      "type": "métallique",
-      "niveau_remplissage": 35,
-      "date": "12-05-2023"
+        "id": 34,
+        "niveau_remplissage": 29,
+        "date": "12-05-2023"
     },
     {
-      "id": 35,
-      "type": "plastique",
-      "niveau_remplissage": 80,
-      "date": "12-05-2023"
+        "id": 35,
+        "niveau_remplissage": 66,
+        "date": "12-05-2023"
     },
     {
-      "id": 36,
-      "type": "organique",
-      "niveau_remplissage": 55,
-      "date": "12-05-2023"
+        "id": 36,
+        "niveau_remplissage": 43,
+        "date": "12-05-2023"
     },
     {
-      "id": 37,
-      "type": "métallique",
-      "niveau_remplissage": 65,
-      "date": "12-05-2023"
+        "id": 37,
+        "niveau_remplissage": 15,
+        "date": "12-05-2023"
     },
     {
-      "id": 38,
-      "type": "plastique",
-      "niveau_remplissage": 90,
-      "date": "12-05-2023"
+        "id": 38,
+        "niveau_remplissage": 65,
+        "date": "12-05-2023"
     },
     {
-      "id": 39,
-      "type": "métallique",
-      "niveau_remplissage": 45,
-      "date": "12-05-2023"
+        "id": 39,
+        "niveau_remplissage": 6,
+        "date": "12-05-2023"
     },
     {
-      "id": 40,
-      "type": "plastique",
-      "niveau_remplissage": 75,
-      "date": "12-05-2023"
+        "id": 40,
+        "niveau_remplissage": 9,
+        "date": "12-05-2023"
     },
     {
-      "id": 41,
-      "type": "organique",
-      "niveau_remplissage": 40,
-      "date": "12-05-2023"
+        "id": 41,
+        "niveau_remplissage": 92,
+        "date": "12-05-2023"
     },
     {
-      "id": 42,
-      "type": "métallique",
-      "niveau_remplissage": 25,
-      "date": "12-05-2023"
+        "id": 42,
+        "niveau_remplissage": 84,
+        "date": "12-05-2023"
     },
     {
-      "id": 43,
-      "type": "plastique",
-      "niveau_remplissage": 55,
-      "date": "12-05-2023"
+        "id": 43,
+        "niveau_remplissage": 78,
+        "date": "12-05-2023"
     },
     {
-      "id": 44,
-      "type": "métallique",
-      "niveau_remplissage": 70,
-      "date": "12-05-2023"
+        "id": 44,
+        "niveau_remplissage": 90,
+        "date": "12-05-2023"
     },
     {
-      "id": 45,
-      "type": "plastique",
-      "niveau_remplissage": 45,
-      "date": "12-05-2023"
+        "id": 45,
+        "niveau_remplissage": 36,
+        "date": "12-05-2023"
     },
     {
-      "id": 46,
-      "type": "organique",
-      "niveau_remplissage": 80,
-      "date": "12-05-2023"
+        "id": 46,
+        "niveau_remplissage": 69,
+        "date": "12-05-2023"
     },
     {
-      "id": 47,
-      "type": "métallique",
-      "niveau_remplissage": 60,
-      "date": "12-05-2023"
+        "id": 47,
+        "niveau_remplissage": 10,
+        "date": "12-05-2023"
     },
     {
-      "id": 48,
-      "type": "plastique",
-      "niveau_remplissage": 95,
-      "date": "12-05-2023"
+        "id": 48,
+        "niveau_remplissage": 91,
+        "date": "12-05-2023"
     },
     {
-      "id": 49,
-      "type": "métallique",
-      "niveau_remplissage": 40,
-      "date": "12-05-2023"
+        "id": 49,
+        "niveau_remplissage": 41,
+        "date": "12-05-2023"
     },
     {
-      "id": 50,
-      "type": "plastique",
-      "niveau_remplissage": 70,
-      "date": "12-05-2023"
+        "id": 50,
+        "niveau_remplissage": 90,
+        "date": "12-05-2023"
     },
     {
-      "id": 51,
-      "type": "organique",
-      "niveau_remplissage": 65,
-      "date": "12-05-2023"
+        "id": 51,
+        "niveau_remplissage": 34,
+        "date": "12-05-2023"
     },
     {
-      "id": 52,
-      "type": "métallique",
-      "niveau_remplissage": 85,
-      "date": "12-05-2023"
+        "id": 52,
+        "niveau_remplissage": 28,
+        "date": "12-05-2023"
     },
     {
-      "id": 53,
-      "type": "plastique",
-      "niveau_remplissage": 50,
-      "date": "12-05-2023"
+        "id": 53,
+        "niveau_remplissage": 19,
+        "date": "12-05-2023"
     },
     {
-      "id": 54,
-      "type": "métallique",
-      "niveau_remplissage": 35,
-      "date": "12-05-2023"
+        "id": 54,
+        "niveau_remplissage": 98,
+        "date": "12-05-2023"
     },
     {
-      "id": 55,
-      "type": "plastique",
-      "niveau_remplissage": 80,
-      "date": "12-05-2023"
+        "id": 55,
+        "niveau_remplissage": 57,
+        "date": "12-05-2023"
     },
     {
-      "id": 56,
-      "type": "organique",
-      "niveau_remplissage": 55,
-      "date": "12-05-2023"
+        "id": 56,
+        "niveau_remplissage": 20,
+        "date": "12-05-2023"
     },
     {
-      "id": 57,
-      "type": "métallique",
-      "niveau_remplissage": 65,
-      "date": "12-05-2023"
+        "id": 57,
+        "niveau_remplissage": 24,
+        "date": "12-05-2023"
     },
     {
-      "id": 58,
-      "type": "plastique",
-      "niveau_remplissage": 90,
-      "date": "12-05-2023"
+        "id": 58,
+        "niveau_remplissage": 64,
+        "date": "12-05-2023"
     },
     {
-      "id": 59,
-      "type": "métallique",
-      "niveau_remplissage": 45,
-      "date": "12-05-2023"
+        "id": 59,
+        "niveau_remplissage": 32,
+        "date": "12-05-2023"
     },
     {
-      "id": 60,
-      "type": "plastique",
-      "niveau_remplissage": 75,
-      "date": "12-05-2023"
+        "id": 60,
+        "niveau_remplissage": 35,
+        "date": "12-05-2023"
     },
     {
-      "id": 61,
-      "type": "organique",
-      "niveau_remplissage": 40,
-      "date": "12-05-2023"
+        "id": 61,
+        "niveau_remplissage": 61,
+        "date": "12-05-2023"
     },
     {
-      "id": 62,
-      "type": "métallique",
-      "niveau_remplissage": 25,
-      "date": "12-05-2023"
+        "id": 62,
+        "niveau_remplissage": 29,
+        "date": "12-05-2023"
     },
     {
-      "id": 63,
-      "type": "plastique",
-      "niveau_remplissage": 55,
-      "date": "12-05-2023"
+        "id": 63,
+        "niveau_remplissage": 66,
+        "date": "12-05-2023"
     },
     {
-      "id": 64,
-      "type": "métallique",
-      "niveau_remplissage": 70,
-      "date": "12-05-2023"
+        "id": 64,
+        "niveau_remplissage": 34,
+        "date": "12-05-2023"
     },
     {
-      "id": 65,
-      "type": "plastique",
-      "niveau_remplissage": 45,
-      "date": "12-05-2023"
+        "id": 65,
+        "niveau_remplissage": 31,
+        "date": "12-05-2023"
     },
     {
-      "id": 66,
-      "type": "organique",
-      "niveau_remplissage": 80,
-      "date": "12-05-2023"
+        "id": 66,
+        "niveau_remplissage": 97,
+        "date": "12-05-2023"
     },
     {
-      "id": 67,
-      "type": "métallique",
-      "niveau_remplissage": 60,
-      "date": "12-05-2023"
+        "id": 67,
+        "niveau_remplissage": 91,
+        "date": "12-05-2023"
     },
     {
-      "id": 68,
-      "type": "plastique",
-      "niveau_remplissage": 95,
-      "date": "12-05-2023"
+        "id": 68,
+        "niveau_remplissage": 71,
+        "date": "12-05-2023"
     },
     {
-      "id": 69,
-      "type": "métallique",
-      "niveau_remplissage": 40,
-      "date": "12-05-2023"
+        "id": 69,
+        "niveau_remplissage": 44,
+        "date": "12-05-2023"
     },
     {
-      "id": 70,
-      "type": "plastique",
-      "niveau_remplissage": 70,
-      "date": "12-05-2023"
+        "id": 70,
+        "niveau_remplissage": 91,
+        "date": "12-05-2023"
     },
     {
-      "id": 71,
-      "type": "organique",
-      "niveau_remplissage": 65,
-      "date": "12-05-2023"
+        "id": 71,
+        "niveau_remplissage": 49,
+        "date": "12-05-2023"
     },
     {
-      "id": 72,
-      "type": "métallique",
-      "niveau_remplissage": 85,
-      "date": "12-05-2023"
+        "id": 72,
+        "niveau_remplissage": 38,
+        "date": "12-05-2023"
     },
     {
-      "id": 73,
-      "type": "plastique",
-      "niveau_remplissage": 50,
-      "date": "12-05-2023"
+        "id": 73,
+        "niveau_remplissage": 59,
+        "date": "12-05-2023"
     },
     {
-      "id": 74,
-      "type": "métallique",
-      "niveau_remplissage": 35,
-      "date": "12-05-2023"
+        "id": 74,
+        "niveau_remplissage": 19,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 75,
+        "niveau_remplissage": 86,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 76,
+        "niveau_remplissage": 99,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 77,
+        "niveau_remplissage": 28,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 78,
+        "niveau_remplissage": 82,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 79,
+        "niveau_remplissage": 48,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 80,
+        "niveau_remplissage": 66,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 81,
+        "niveau_remplissage": 8,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 82,
+        "niveau_remplissage": 68,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 83,
+        "niveau_remplissage": 28,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 84,
+        "niveau_remplissage": 29,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 85,
+        "niveau_remplissage": 46,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 86,
+        "niveau_remplissage": 10,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 87,
+        "niveau_remplissage": 95,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 88,
+        "niveau_remplissage": 77,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 89,
+        "niveau_remplissage": 1,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 90,
+        "niveau_remplissage": 86,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 91,
+        "niveau_remplissage": 14,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 92,
+        "niveau_remplissage": 62,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 93,
+        "niveau_remplissage": 64,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 94,
+        "niveau_remplissage": 66,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 95,
+        "niveau_remplissage": 13,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 96,
+        "niveau_remplissage": 70,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 97,
+        "niveau_remplissage": 23,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 98,
+        "niveau_remplissage": 33,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 99,
+        "niveau_remplissage": 79,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 100,
+        "niveau_remplissage": 56,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 101,
+        "niveau_remplissage": 12,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 102,
+        "niveau_remplissage": 10,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 103,
+        "niveau_remplissage": 11,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 104,
+        "niveau_remplissage": 81,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 105,
+        "niveau_remplissage": 21,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 106,
+        "niveau_remplissage": 81,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 107,
+        "niveau_remplissage": 37,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 108,
+        "niveau_remplissage": 31,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 109,
+        "niveau_remplissage": 2,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 110,
+        "niveau_remplissage": 4,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 111,
+        "niveau_remplissage": 1,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 112,
+        "niveau_remplissage": 2,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 113,
+        "niveau_remplissage": 70,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 114,
+        "niveau_remplissage": 83,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 115,
+        "niveau_remplissage": 50,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 116,
+        "niveau_remplissage": 81,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 117,
+        "niveau_remplissage": 94,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 118,
+        "niveau_remplissage": 26,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 119,
+        "niveau_remplissage": 70,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 120,
+        "niveau_remplissage": 53,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 121,
+        "niveau_remplissage": 86,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 122,
+        "niveau_remplissage": 25,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 123,
+        "niveau_remplissage": 71,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 124,
+        "niveau_remplissage": 1,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 125,
+        "niveau_remplissage": 42,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 126,
+        "niveau_remplissage": 31,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 127,
+        "niveau_remplissage": 39,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 128,
+        "niveau_remplissage": 42,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 129,
+        "niveau_remplissage": 62,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 130,
+        "niveau_remplissage": 93,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 131,
+        "niveau_remplissage": 5,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 132,
+        "niveau_remplissage": 76,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 133,
+        "niveau_remplissage": 19,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 134,
+        "niveau_remplissage": 2,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 135,
+        "niveau_remplissage": 76,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 136,
+        "niveau_remplissage": 31,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 137,
+        "niveau_remplissage": 83,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 138,
+        "niveau_remplissage": 34,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 139,
+        "niveau_remplissage": 91,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 140,
+        "niveau_remplissage": 51,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 141,
+        "niveau_remplissage": 20,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 142,
+        "niveau_remplissage": 96,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 143,
+        "niveau_remplissage": 65,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 144,
+        "niveau_remplissage": 91,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 145,
+        "niveau_remplissage": 56,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 146,
+        "niveau_remplissage": 63,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 147,
+        "niveau_remplissage": 73,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 148,
+        "niveau_remplissage": 32,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 149,
+        "niveau_remplissage": 4,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 150,
+        "niveau_remplissage": 92,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 151,
+        "niveau_remplissage": 84,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 152,
+        "niveau_remplissage": 83,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 153,
+        "niveau_remplissage": 94,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 154,
+        "niveau_remplissage": 57,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 155,
+        "niveau_remplissage": 32,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 156,
+        "niveau_remplissage": 63,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 157,
+        "niveau_remplissage": 11,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 158,
+        "niveau_remplissage": 19,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 159,
+        "niveau_remplissage": 26,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 160,
+        "niveau_remplissage": 66,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 161,
+        "niveau_remplissage": 84,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 162,
+        "niveau_remplissage": 53,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 163,
+        "niveau_remplissage": 44,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 164,
+        "niveau_remplissage": 11,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 165,
+        "niveau_remplissage": 93,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 166,
+        "niveau_remplissage": 71,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 167,
+        "niveau_remplissage": 20,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 168,
+        "niveau_remplissage": 95,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 169,
+        "niveau_remplissage": 73,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 170,
+        "niveau_remplissage": 90,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 171,
+        "niveau_remplissage": 88,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 172,
+        "niveau_remplissage": 10,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 173,
+        "niveau_remplissage": 34,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 174,
+        "niveau_remplissage": 22,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 175,
+        "niveau_remplissage": 32,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 176,
+        "niveau_remplissage": 32,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 177,
+        "niveau_remplissage": 49,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 178,
+        "niveau_remplissage": 56,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 179,
+        "niveau_remplissage": 43,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 180,
+        "niveau_remplissage": 6,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 181,
+        "niveau_remplissage": 79,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 182,
+        "niveau_remplissage": 76,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 183,
+        "niveau_remplissage": 39,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 184,
+        "niveau_remplissage": 67,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 185,
+        "niveau_remplissage": 97,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 186,
+        "niveau_remplissage": 21,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 187,
+        "niveau_remplissage": 87,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 188,
+        "niveau_remplissage": 93,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 189,
+        "niveau_remplissage": 96,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 190,
+        "niveau_remplissage": 60,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 191,
+        "niveau_remplissage": 42,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 192,
+        "niveau_remplissage": 87,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 193,
+        "niveau_remplissage": 92,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 194,
+        "niveau_remplissage": 17,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 195,
+        "niveau_remplissage": 61,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 196,
+        "niveau_remplissage": 34,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 197,
+        "niveau_remplissage": 43,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 198,
+        "niveau_remplissage": 28,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 199,
+        "niveau_remplissage": 65,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 200,
+        "niveau_remplissage": 13,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 201,
+        "niveau_remplissage": 79,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 202,
+        "niveau_remplissage": 42,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 203,
+        "niveau_remplissage": 96,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 204,
+        "niveau_remplissage": 81,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 205,
+        "niveau_remplissage": 82,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 206,
+        "niveau_remplissage": 26,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 207,
+        "niveau_remplissage": 64,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 208,
+        "niveau_remplissage": 78,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 209,
+        "niveau_remplissage": 10,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 210,
+        "niveau_remplissage": 59,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 211,
+        "niveau_remplissage": 70,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 212,
+        "niveau_remplissage": 4,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 213,
+        "niveau_remplissage": 25,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 214,
+        "niveau_remplissage": 97,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 215,
+        "niveau_remplissage": 42,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 216,
+        "niveau_remplissage": 68,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 217,
+        "niveau_remplissage": 88,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 218,
+        "niveau_remplissage": 86,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 219,
+        "niveau_remplissage": 91,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 220,
+        "niveau_remplissage": 61,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 221,
+        "niveau_remplissage": 42,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 222,
+        "niveau_remplissage": 32,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 223,
+        "niveau_remplissage": 23,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 224,
+        "niveau_remplissage": 72,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 225,
+        "niveau_remplissage": 62,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 226,
+        "niveau_remplissage": 96,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 227,
+        "niveau_remplissage": 7,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 228,
+        "niveau_remplissage": 56,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 229,
+        "niveau_remplissage": 55,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 230,
+        "niveau_remplissage": 42,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 231,
+        "niveau_remplissage": 67,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 232,
+        "niveau_remplissage": 93,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 233,
+        "niveau_remplissage": 20,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 234,
+        "niveau_remplissage": 32,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 235,
+        "niveau_remplissage": 96,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 236,
+        "niveau_remplissage": 60,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 237,
+        "niveau_remplissage": 58,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 238,
+        "niveau_remplissage": 8,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 239,
+        "niveau_remplissage": 41,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 240,
+        "niveau_remplissage": 75,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 241,
+        "niveau_remplissage": 75,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 242,
+        "niveau_remplissage": 58,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 243,
+        "niveau_remplissage": 64,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 244,
+        "niveau_remplissage": 75,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 245,
+        "niveau_remplissage": 75,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 246,
+        "niveau_remplissage": 92,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 247,
+        "niveau_remplissage": 7,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 248,
+        "niveau_remplissage": 10,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 249,
+        "niveau_remplissage": 78,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 250,
+        "niveau_remplissage": 73,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 251,
+        "niveau_remplissage": 74,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 252,
+        "niveau_remplissage": 69,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 253,
+        "niveau_remplissage": 21,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 254,
+        "niveau_remplissage": 97,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 255,
+        "niveau_remplissage": 48,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 256,
+        "niveau_remplissage": 77,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 257,
+        "niveau_remplissage": 41,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 258,
+        "niveau_remplissage": 45,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 259,
+        "niveau_remplissage": 19,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 260,
+        "niveau_remplissage": 91,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 261,
+        "niveau_remplissage": 47,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 262,
+        "niveau_remplissage": 93,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 263,
+        "niveau_remplissage": 45,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 264,
+        "niveau_remplissage": 5,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 265,
+        "niveau_remplissage": 65,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 266,
+        "niveau_remplissage": 99,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 267,
+        "niveau_remplissage": 66,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 268,
+        "niveau_remplissage": 49,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 269,
+        "niveau_remplissage": 78,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 270,
+        "niveau_remplissage": 53,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 271,
+        "niveau_remplissage": 91,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 272,
+        "niveau_remplissage": 24,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 273,
+        "niveau_remplissage": 98,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 274,
+        "niveau_remplissage": 55,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 275,
+        "niveau_remplissage": 83,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 276,
+        "niveau_remplissage": 49,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 277,
+        "niveau_remplissage": 41,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 278,
+        "niveau_remplissage": 25,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 279,
+        "niveau_remplissage": 9,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 280,
+        "niveau_remplissage": 7,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 281,
+        "niveau_remplissage": 46,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 282,
+        "niveau_remplissage": 13,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 283,
+        "niveau_remplissage": 32,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 284,
+        "niveau_remplissage": 99,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 285,
+        "niveau_remplissage": 66,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 286,
+        "niveau_remplissage": 43,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 287,
+        "niveau_remplissage": 86,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 288,
+        "niveau_remplissage": 55,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 289,
+        "niveau_remplissage": 90,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 290,
+        "niveau_remplissage": 66,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 291,
+        "niveau_remplissage": 44,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 292,
+        "niveau_remplissage": 49,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 293,
+        "niveau_remplissage": 83,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 294,
+        "niveau_remplissage": 99,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 295,
+        "niveau_remplissage": 83,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 296,
+        "niveau_remplissage": 97,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 297,
+        "niveau_remplissage": 72,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 298,
+        "niveau_remplissage": 54,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 299,
+        "niveau_remplissage": 62,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 300,
+        "niveau_remplissage": 43,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 301,
+        "niveau_remplissage": 78,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 302,
+        "niveau_remplissage": 64,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 303,
+        "niveau_remplissage": 35,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 304,
+        "niveau_remplissage": 1,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 305,
+        "niveau_remplissage": 6,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 306,
+        "niveau_remplissage": 91,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 307,
+        "niveau_remplissage": 75,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 308,
+        "niveau_remplissage": 84,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 309,
+        "niveau_remplissage": 53,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 310,
+        "niveau_remplissage": 8,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 311,
+        "niveau_remplissage": 62,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 312,
+        "niveau_remplissage": 10,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 313,
+        "niveau_remplissage": 17,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 314,
+        "niveau_remplissage": 98,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 315,
+        "niveau_remplissage": 78,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 316,
+        "niveau_remplissage": 62,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 317,
+        "niveau_remplissage": 65,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 318,
+        "niveau_remplissage": 17,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 319,
+        "niveau_remplissage": 1,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 320,
+        "niveau_remplissage": 80,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 321,
+        "niveau_remplissage": 76,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 322,
+        "niveau_remplissage": 10,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 323,
+        "niveau_remplissage": 26,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 324,
+        "niveau_remplissage": 7,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 325,
+        "niveau_remplissage": 55,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 326,
+        "niveau_remplissage": 47,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 327,
+        "niveau_remplissage": 24,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 328,
+        "niveau_remplissage": 70,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 329,
+        "niveau_remplissage": 82,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 330,
+        "niveau_remplissage": 97,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 331,
+        "niveau_remplissage": 58,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 332,
+        "niveau_remplissage": 41,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 333,
+        "niveau_remplissage": 21,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 334,
+        "niveau_remplissage": 30,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 335,
+        "niveau_remplissage": 7,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 336,
+        "niveau_remplissage": 73,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 337,
+        "niveau_remplissage": 80,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 338,
+        "niveau_remplissage": 46,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 339,
+        "niveau_remplissage": 29,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 340,
+        "niveau_remplissage": 94,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 341,
+        "niveau_remplissage": 29,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 342,
+        "niveau_remplissage": 38,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 343,
+        "niveau_remplissage": 42,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 344,
+        "niveau_remplissage": 68,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 345,
+        "niveau_remplissage": 11,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 346,
+        "niveau_remplissage": 47,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 347,
+        "niveau_remplissage": 29,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 348,
+        "niveau_remplissage": 46,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 349,
+        "niveau_remplissage": 50,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 350,
+        "niveau_remplissage": 93,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 351,
+        "niveau_remplissage": 67,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 352,
+        "niveau_remplissage": 95,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 353,
+        "niveau_remplissage": 97,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 354,
+        "niveau_remplissage": 2,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 355,
+        "niveau_remplissage": 85,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 356,
+        "niveau_remplissage": 23,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 357,
+        "niveau_remplissage": 74,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 358,
+        "niveau_remplissage": 24,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 359,
+        "niveau_remplissage": 71,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 360,
+        "niveau_remplissage": 98,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 361,
+        "niveau_remplissage": 75,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 362,
+        "niveau_remplissage": 25,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 363,
+        "niveau_remplissage": 39,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 364,
+        "niveau_remplissage": 87,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 365,
+        "niveau_remplissage": 24,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 366,
+        "niveau_remplissage": 89,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 367,
+        "niveau_remplissage": 28,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 368,
+        "niveau_remplissage": 88,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 369,
+        "niveau_remplissage": 85,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 370,
+        "niveau_remplissage": 21,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 371,
+        "niveau_remplissage": 91,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 372,
+        "niveau_remplissage": 99,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 373,
+        "niveau_remplissage": 60,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 374,
+        "niveau_remplissage": 15,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 375,
+        "niveau_remplissage": 20,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 376,
+        "niveau_remplissage": 78,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 377,
+        "niveau_remplissage": 18,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 378,
+        "niveau_remplissage": 6,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 379,
+        "niveau_remplissage": 99,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 380,
+        "niveau_remplissage": 86,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 381,
+        "niveau_remplissage": 41,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 382,
+        "niveau_remplissage": 42,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 383,
+        "niveau_remplissage": 61,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 384,
+        "niveau_remplissage": 33,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 385,
+        "niveau_remplissage": 77,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 386,
+        "niveau_remplissage": 76,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 387,
+        "niveau_remplissage": 81,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 388,
+        "niveau_remplissage": 88,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 389,
+        "niveau_remplissage": 96,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 390,
+        "niveau_remplissage": 17,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 391,
+        "niveau_remplissage": 63,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 392,
+        "niveau_remplissage": 39,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 393,
+        "niveau_remplissage": 83,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 394,
+        "niveau_remplissage": 48,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 395,
+        "niveau_remplissage": 59,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 396,
+        "niveau_remplissage": 20,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 397,
+        "niveau_remplissage": 94,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 398,
+        "niveau_remplissage": 43,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 399,
+        "niveau_remplissage": 49,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 400,
+        "niveau_remplissage": 84,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 401,
+        "niveau_remplissage": 75,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 402,
+        "niveau_remplissage": 55,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 403,
+        "niveau_remplissage": 93,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 404,
+        "niveau_remplissage": 53,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 405,
+        "niveau_remplissage": 74,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 406,
+        "niveau_remplissage": 97,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 407,
+        "niveau_remplissage": 68,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 408,
+        "niveau_remplissage": 3,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 409,
+        "niveau_remplissage": 76,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 410,
+        "niveau_remplissage": 46,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 411,
+        "niveau_remplissage": 17,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 412,
+        "niveau_remplissage": 98,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 413,
+        "niveau_remplissage": 20,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 414,
+        "niveau_remplissage": 6,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 415,
+        "niveau_remplissage": 89,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 416,
+        "niveau_remplissage": 16,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 417,
+        "niveau_remplissage": 85,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 418,
+        "niveau_remplissage": 46,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 419,
+        "niveau_remplissage": 2,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 420,
+        "niveau_remplissage": 33,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 421,
+        "niveau_remplissage": 73,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 422,
+        "niveau_remplissage": 78,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 423,
+        "niveau_remplissage": 52,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 424,
+        "niveau_remplissage": 23,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 425,
+        "niveau_remplissage": 70,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 426,
+        "niveau_remplissage": 88,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 427,
+        "niveau_remplissage": 85,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 428,
+        "niveau_remplissage": 86,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 429,
+        "niveau_remplissage": 18,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 430,
+        "niveau_remplissage": 31,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 431,
+        "niveau_remplissage": 43,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 432,
+        "niveau_remplissage": 28,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 433,
+        "niveau_remplissage": 6,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 434,
+        "niveau_remplissage": 95,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 435,
+        "niveau_remplissage": 92,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 436,
+        "niveau_remplissage": 82,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 437,
+        "niveau_remplissage": 43,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 438,
+        "niveau_remplissage": 87,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 439,
+        "niveau_remplissage": 49,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 440,
+        "niveau_remplissage": 70,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 441,
+        "niveau_remplissage": 57,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 442,
+        "niveau_remplissage": 32,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 443,
+        "niveau_remplissage": 35,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 444,
+        "niveau_remplissage": 19,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 445,
+        "niveau_remplissage": 1,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 446,
+        "niveau_remplissage": 71,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 447,
+        "niveau_remplissage": 71,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 448,
+        "niveau_remplissage": 84,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 449,
+        "niveau_remplissage": 57,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 450,
+        "niveau_remplissage": 24,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 451,
+        "niveau_remplissage": 20,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 452,
+        "niveau_remplissage": 9,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 453,
+        "niveau_remplissage": 92,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 454,
+        "niveau_remplissage": 78,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 455,
+        "niveau_remplissage": 96,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 456,
+        "niveau_remplissage": 73,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 457,
+        "niveau_remplissage": 88,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 458,
+        "niveau_remplissage": 53,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 459,
+        "niveau_remplissage": 61,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 460,
+        "niveau_remplissage": 98,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 461,
+        "niveau_remplissage": 40,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 462,
+        "niveau_remplissage": 82,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 463,
+        "niveau_remplissage": 55,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 464,
+        "niveau_remplissage": 39,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 465,
+        "niveau_remplissage": 23,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 466,
+        "niveau_remplissage": 64,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 467,
+        "niveau_remplissage": 85,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 468,
+        "niveau_remplissage": 99,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 469,
+        "niveau_remplissage": 66,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 470,
+        "niveau_remplissage": 90,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 471,
+        "niveau_remplissage": 3,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 472,
+        "niveau_remplissage": 20,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 473,
+        "niveau_remplissage": 56,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 474,
+        "niveau_remplissage": 4,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 475,
+        "niveau_remplissage": 78,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 476,
+        "niveau_remplissage": 48,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 477,
+        "niveau_remplissage": 86,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 478,
+        "niveau_remplissage": 85,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 479,
+        "niveau_remplissage": 92,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 480,
+        "niveau_remplissage": 2,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 481,
+        "niveau_remplissage": 17,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 482,
+        "niveau_remplissage": 71,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 483,
+        "niveau_remplissage": 34,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 484,
+        "niveau_remplissage": 24,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 485,
+        "niveau_remplissage": 99,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 486,
+        "niveau_remplissage": 59,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 487,
+        "niveau_remplissage": 52,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 488,
+        "niveau_remplissage": 42,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 489,
+        "niveau_remplissage": 15,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 490,
+        "niveau_remplissage": 66,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 491,
+        "niveau_remplissage": 96,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 492,
+        "niveau_remplissage": 95,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 493,
+        "niveau_remplissage": 26,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 494,
+        "niveau_remplissage": 52,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 495,
+        "niveau_remplissage": 33,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 496,
+        "niveau_remplissage": 46,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 497,
+        "niveau_remplissage": 62,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 498,
+        "niveau_remplissage": 7,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 499,
+        "niveau_remplissage": 32,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 500,
+        "niveau_remplissage": 38,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 501,
+        "niveau_remplissage": 8,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 502,
+        "niveau_remplissage": 50,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 503,
+        "niveau_remplissage": 73,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 504,
+        "niveau_remplissage": 74,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 505,
+        "niveau_remplissage": 30,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 506,
+        "niveau_remplissage": 52,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 507,
+        "niveau_remplissage": 47,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 508,
+        "niveau_remplissage": 41,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 509,
+        "niveau_remplissage": 8,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 510,
+        "niveau_remplissage": 79,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 511,
+        "niveau_remplissage": 94,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 512,
+        "niveau_remplissage": 98,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 513,
+        "niveau_remplissage": 91,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 514,
+        "niveau_remplissage": 36,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 515,
+        "niveau_remplissage": 29,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 516,
+        "niveau_remplissage": 60,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 517,
+        "niveau_remplissage": 30,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 518,
+        "niveau_remplissage": 32,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 519,
+        "niveau_remplissage": 68,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 520,
+        "niveau_remplissage": 47,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 521,
+        "niveau_remplissage": 86,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 522,
+        "niveau_remplissage": 36,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 523,
+        "niveau_remplissage": 31,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 524,
+        "niveau_remplissage": 31,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 525,
+        "niveau_remplissage": 18,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 526,
+        "niveau_remplissage": 91,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 527,
+        "niveau_remplissage": 19,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 528,
+        "niveau_remplissage": 26,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 529,
+        "niveau_remplissage": 91,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 530,
+        "niveau_remplissage": 11,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 531,
+        "niveau_remplissage": 74,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 532,
+        "niveau_remplissage": 21,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 533,
+        "niveau_remplissage": 41,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 534,
+        "niveau_remplissage": 23,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 535,
+        "niveau_remplissage": 33,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 536,
+        "niveau_remplissage": 81,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 537,
+        "niveau_remplissage": 82,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 538,
+        "niveau_remplissage": 95,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 539,
+        "niveau_remplissage": 48,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 540,
+        "niveau_remplissage": 97,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 541,
+        "niveau_remplissage": 68,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 542,
+        "niveau_remplissage": 11,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 543,
+        "niveau_remplissage": 21,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 544,
+        "niveau_remplissage": 8,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 545,
+        "niveau_remplissage": 24,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 546,
+        "niveau_remplissage": 30,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 547,
+        "niveau_remplissage": 21,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 548,
+        "niveau_remplissage": 75,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 549,
+        "niveau_remplissage": 38,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 550,
+        "niveau_remplissage": 4,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 551,
+        "niveau_remplissage": 25,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 552,
+        "niveau_remplissage": 63,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 553,
+        "niveau_remplissage": 58,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 554,
+        "niveau_remplissage": 37,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 555,
+        "niveau_remplissage": 97,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 556,
+        "niveau_remplissage": 6,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 557,
+        "niveau_remplissage": 28,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 558,
+        "niveau_remplissage": 24,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 559,
+        "niveau_remplissage": 88,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 560,
+        "niveau_remplissage": 15,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 561,
+        "niveau_remplissage": 65,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 562,
+        "niveau_remplissage": 49,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 563,
+        "niveau_remplissage": 76,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 564,
+        "niveau_remplissage": 75,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 565,
+        "niveau_remplissage": 35,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 566,
+        "niveau_remplissage": 89,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 567,
+        "niveau_remplissage": 49,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 568,
+        "niveau_remplissage": 4,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 569,
+        "niveau_remplissage": 62,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 570,
+        "niveau_remplissage": 27,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 571,
+        "niveau_remplissage": 83,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 572,
+        "niveau_remplissage": 35,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 573,
+        "niveau_remplissage": 52,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 574,
+        "niveau_remplissage": 58,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 575,
+        "niveau_remplissage": 60,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 576,
+        "niveau_remplissage": 71,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 577,
+        "niveau_remplissage": 75,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 578,
+        "niveau_remplissage": 35,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 579,
+        "niveau_remplissage": 25,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 580,
+        "niveau_remplissage": 28,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 581,
+        "niveau_remplissage": 76,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 582,
+        "niveau_remplissage": 72,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 583,
+        "niveau_remplissage": 97,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 584,
+        "niveau_remplissage": 48,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 585,
+        "niveau_remplissage": 19,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 586,
+        "niveau_remplissage": 28,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 587,
+        "niveau_remplissage": 38,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 588,
+        "niveau_remplissage": 30,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 589,
+        "niveau_remplissage": 48,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 590,
+        "niveau_remplissage": 82,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 591,
+        "niveau_remplissage": 94,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 592,
+        "niveau_remplissage": 64,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 593,
+        "niveau_remplissage": 50,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 594,
+        "niveau_remplissage": 92,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 595,
+        "niveau_remplissage": 72,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 596,
+        "niveau_remplissage": 94,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 597,
+        "niveau_remplissage": 29,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 598,
+        "niveau_remplissage": 45,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 599,
+        "niveau_remplissage": 71,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 600,
+        "niveau_remplissage": 88,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 601,
+        "niveau_remplissage": 73,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 602,
+        "niveau_remplissage": 78,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 603,
+        "niveau_remplissage": 89,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 604,
+        "niveau_remplissage": 48,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 605,
+        "niveau_remplissage": 16,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 606,
+        "niveau_remplissage": 48,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 607,
+        "niveau_remplissage": 19,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 608,
+        "niveau_remplissage": 8,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 609,
+        "niveau_remplissage": 19,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 610,
+        "niveau_remplissage": 85,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 611,
+        "niveau_remplissage": 32,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 612,
+        "niveau_remplissage": 58,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 613,
+        "niveau_remplissage": 68,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 614,
+        "niveau_remplissage": 73,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 615,
+        "niveau_remplissage": 18,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 616,
+        "niveau_remplissage": 27,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 617,
+        "niveau_remplissage": 15,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 618,
+        "niveau_remplissage": 43,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 619,
+        "niveau_remplissage": 67,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 620,
+        "niveau_remplissage": 90,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 621,
+        "niveau_remplissage": 92,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 622,
+        "niveau_remplissage": 80,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 623,
+        "niveau_remplissage": 6,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 624,
+        "niveau_remplissage": 66,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 625,
+        "niveau_remplissage": 17,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 626,
+        "niveau_remplissage": 82,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 627,
+        "niveau_remplissage": 62,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 628,
+        "niveau_remplissage": 85,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 629,
+        "niveau_remplissage": 68,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 630,
+        "niveau_remplissage": 49,
+        "date": "12-05-2023"
+    },
+    {
+        "id": 631,
+        "niveau_remplissage": 58,
+        "date": "12-05-2023"
     }
-  ]
+]
+    
+      
 }
